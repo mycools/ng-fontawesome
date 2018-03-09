@@ -1,0 +1,32 @@
+{
+    "name": "font-awesome",
+    "description": "The font awesome",
+    "version": "5.0.8",
+    "style": "css/fontawesome.css",
+    "keywords": ["font", "fontawesome",  "icon", "bootstrap"],
+    "homepage": "https://fontawesome.com/",
+    "bugs": {
+      "url" : "https://github.com/mycools/ng-fontawesome/issues"
+    },
+    "author": {
+      "name": "Jarak Kritkiattisak",
+      "email": "admin@mycools.in.th",
+      "web": "http://twitter.com/mycoolss"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mycools/ng-fontawesome.git"
+    },
+    "contributors": [
+      {
+        "name": "Jarak Kritkiattisak",
+        "web": "http://twitter.com/mycoolss"
+      }
+    ],
+    "license": "(OFL-1.1 AND MIT)",
+    "dependencies": {
+    },
+    "engines" : {
+      "node" : ">=0.10.3"
+    }
+  }
